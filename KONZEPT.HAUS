@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Information</title>
+  <style>
+    body { background-color: white; color: black; font-family: sans-serif; padding: 20px; }
+    h1 { font-size: 1.5em; }
+    ul { list-style: disc; margin-left: 20px; }
+  </style>
+</head>
+<body>
+  <h1>KONZEPT.HAUS</h1>
+  <h4>Planung | Beratung | Ausführung<h4>
+	<li>Innenausbau</li>
+	<li>Trockenbau</li>
+	<li>Raumausstattung</li>
+	<li>Fliesen- und Bodenverlegung</li>
+  <h3> Dmitri Grebnev</h3>
+  <p>Mobil: <a href="tel:+49 176 23721543">+49 176 23721543</a></p>
+  <p>Telefon: <a href="tel:0541 2051592">0541 2051592</a></p>
+  <p>E-Mail: <a href="quality-in-front@t-online.de">quality-in-front@t-online.de</a></p>
+  <p>Adresse: <a href="Schinkeler Mark 8, 49086 Osnabrück">Schinkeler Mark 8, 49086 Osnabrück</a></p>
+</body>
+</html>
